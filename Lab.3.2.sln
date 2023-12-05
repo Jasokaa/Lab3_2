@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{2000358B-4CFF-43E6-82A3-7E7E98F95864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLib", "BinaryTreeLib\BinaryTreeLib.csproj", "{5CBBC021-5F90-48CC-A62D-48EB3FE91D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{32493E96-359C-49FA-8E97-9FF6C87192D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2000358B-4CFF-43E6-82A3-7E7E98F95864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000358B-4CFF-43E6-82A3-7E7E98F95864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000358B-4CFF-43E6-82A3-7E7E98F95864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000358B-4CFF-43E6-82A3-7E7E98F95864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBBC021-5F90-48CC-A62D-48EB3FE91D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBBC021-5F90-48CC-A62D-48EB3FE91D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBBC021-5F90-48CC-A62D-48EB3FE91D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBBC021-5F90-48CC-A62D-48EB3FE91D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32493E96-359C-49FA-8E97-9FF6C87192D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32493E96-359C-49FA-8E97-9FF6C87192D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32493E96-359C-49FA-8E97-9FF6C87192D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32493E96-359C-49FA-8E97-9FF6C87192D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
